@@ -1,6 +1,5 @@
 # Hi there, I'm Amar Ganesh.S 👋
-
-![CSE](https://img.shields.io/badge/CSE-Computer%20Science%20and%20Engineering%20(Computer%20Systems)-blue?style=flat-square)  
+ 
 ![Location](https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-orange?style=flat-square)
   
 ## 👨‍💻 About Me
