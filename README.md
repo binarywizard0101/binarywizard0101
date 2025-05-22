@@ -33,6 +33,9 @@
 ## 📈 GitHub Stats
 
 ![binarywizard0101's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binarywizard0101&show_icons=true&theme=radical)
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarywizard0101&layout=compact&theme=radical)
 
 ---
